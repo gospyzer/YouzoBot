@@ -1,4 +1,4 @@
-# Youzo Youtube Bot 😉
+# Youzo Youtube Bot
 ## Prerequisite
     ffmpeg
   
@@ -12,8 +12,8 @@
     - install dependencies
     - python3 -m bot
     
-## Thanks ❤️
+## Thanks ❤
 * [Spechide](https://telegram.dog/SpEcHIDe) for his [AnyDlBot](https://github.com/SpEcHiDe/AnyDLBot)
 * [Gospyzer](https://telegram.dog/gospyzer)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aryanvikash/Youtube-Downloader-Bot/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/gospyzer/YouzoBot)
